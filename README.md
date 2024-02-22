@@ -1,3 +1,4 @@
-Listado de módulos cliente
-
-| nombre_modulo | funcionalidad |
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
